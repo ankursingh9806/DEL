@@ -1,3 +1,3 @@
 ## Array and String
-### easy
-- ./35. Search Insert Position.js
+### Easy
+- [35. Search Insert Position](./35.%20Search%20Insert%20Position.js)
